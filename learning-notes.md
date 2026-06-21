@@ -15,5 +15,7 @@ Studied email-related information and mail server records.
 ## Threat Intelligence
 
 Explored VirusTotal and security reputation analysis.
+## Google Dorking
 
+Explored advanced search operators and information gathering techniques using publicly available search engine results.
 
