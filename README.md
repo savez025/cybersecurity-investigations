@@ -1,3 +1,4 @@
+Created as part of my cybersecurity learning journey and preparation for further studies in cybersecurity.
 # Cybersecurity Investigations
 
 This repository contains cybersecurity learning activities completed as part of my self-learning journey.
