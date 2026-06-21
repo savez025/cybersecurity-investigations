@@ -24,6 +24,8 @@ Tools Used:
 ### 4. Threat Intelligence Analysis
 Tools Used:
 - VirusTotal
+### 5. Google Dorking
+Explored advanced search operators and information gathering techniques using publicly available search engine results.
 
 ## Skills Explored
 
